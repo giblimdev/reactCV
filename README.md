@@ -1,8 +1,27 @@
-# React + Vite
+# ReactCV
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Ce projet est une application React créée avec Vite. Vous pouvez cloner ce repository et lancer l'application en local, ou voir la démonstration sur CodeSandbox :
+ https://codesandbox.io/p/github/giblimdev/reactCV/main?import=true.
 
-Currently, two official plugins are available:
+## Cloner le repository et installer l'application
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Prérequis
+
+- Node.js (>= 14.0.0)
+- npm (>= 6.0.0)
+
+### Étapes
+
+1. **Cloner le repository**
+   ```bash
+   git clone https://github.com/giblimdev/reactCV.git
+   cd reactCV
+2. **Installer l'application**
+    ```bash
+    npm install
+3. **Lancer le serveur de developpement local**
+    ```bash
+    npm run dev
+4. **acceder au siter**
+    Ctrl + click sur le lien
+    
